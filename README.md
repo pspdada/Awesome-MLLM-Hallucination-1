@@ -155,6 +155,10 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 ## Hallucination Mitigation
 This section collects the papers on mitigating the MLLM's hallucination.
 
+- + **Mitigating Object Hallucinations via Sentence-Level Early Intervention** [[paper]](https://arxiv.org/pdf/2507.12455.pdf) [[code]](https://github.com/pspdada/SENTINEL)
+
+  `ICCV 2025`
+
 - **Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning** [[paper]](https://arxiv.org/pdf/2306.14565.pdf) [[code]](https://github.com/FuxiaoLiu/LRV-Instruction)
 
   `ICLR 2024`
